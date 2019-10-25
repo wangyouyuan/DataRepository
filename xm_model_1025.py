@@ -1,8 +1,3 @@
-作者：MachineLP
-链接：https://zhuanlan.zhihu.com/p/87619181
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
 # -*- coding: utf-8 -*-
 from heamy.dataset import Dataset
 from heamy.estimator import Regressor, Classifier
